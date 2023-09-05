@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Shravanah
+- 👋 Hi, I’m Shravana 
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning BE in Electrical and Electronics Engineering.
+- 🌱 I’m currently studying BE in Electrical and Electronics Engineering.
 
 <!---
 Shravanah/Shravanah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
